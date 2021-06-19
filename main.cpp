@@ -1,7 +1,7 @@
 /******************************************************************************
 
                        Programa em C++ que gera "vendas aleatórias"
-                Para o 2 semestre de Analise e desenvolvimento de sistema.
+                Segundo semestre de Analise e desenvolvimento de sistema.
 
 *******************************************************************************/
 
